@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "KeepItSimple",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"sd_3": "cpp",
+			"string": "cpp",
+			"iostream": "cpp"
+		}
+	}
+}
